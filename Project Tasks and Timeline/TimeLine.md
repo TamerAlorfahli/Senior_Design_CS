@@ -1,3 +1,12 @@
+## MileStones
+* Complete research for technologies to be implemented
+* Complete front end design
+* Complete back endstructure
+* Implement API's
+* Complete Front end testing
+* Complete Back end testing
+* Refine Application
+* Complete Documentation
 
 | Task  | Start Date | Completion date |
 | ------------- | ------------- | ------------- |
@@ -17,6 +26,7 @@
 | Test quality of the application via realistic use. | 4/01/2023 | 4/03/2023 |
 | Document processes, features, bugs, and possible improvements of the development process. | 12/01/2022 | 4/15/2023 |
 
-
+## Effort Matrix
+The entire research and development will be completed by Tamer Alorfahli.
 
 
