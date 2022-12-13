@@ -2,6 +2,8 @@
 __Team Members:__ Tamer Alorfahli (Computer Science) Alorfata@mail.uc.edu\
 \
 __Advisor:__ xx
+\
+__Project Topic Area:__ Web/Mobile App development (Health/LifeStyle/Food)
 ## Abstract: 
 I plan to create a application that is able to streamline the process of determining what to eat and cooking. The application helps the user determine what to cook and provide recipes to them with a more robust database of selections. As well as potentially adding a feature to help the user source their ingredients for the recipes via the application and grocery shopping. 
 ## Project Description:
