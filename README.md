@@ -17,7 +17,7 @@ Everyone has had moments where you're hungry but don't know what to eat, or open
 
 ## [ABET Concerns Essay](ABET%20Concerns%20Essay)
 * [Constraint Essay](ABET%20Concerns%20Essay/Constraint_Essay.md)
-* [Slide Show](ABET%20Concerns%20Essay)
+* [Slide Show](ABET%20Concerns%20Essay/Senior%20Design%20application%20pp.pdf)
 
 ## [Self-Assessment Essay](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
 * [Self-Assessment Essay](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
