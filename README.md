@@ -1,7 +1,7 @@
 # Team Name: **402Labs**
 __Team Members:__ Tamer Alorfahli (Computer Science) Alorfata@mail.uc.edu\
 \
-__Advisor:__ xx
+
 \
 __Project Topic Area:__ Web/Mobile App development (Health/LifeStyle/Food)
 ## Abstract: 
