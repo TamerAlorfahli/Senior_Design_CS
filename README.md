@@ -21,15 +21,27 @@ Everyone has had moments where you're hungry but don't know what to eat, or open
 * [Constraint Essay](ABET%20Concerns%20Essay/Constraint_Essay.md)
 * [Slide Show](ABET%20Concerns%20Essay/Senior%20Design%20application%20pp.pdf)
 
-## [Self-Assessment Essay](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
-* [Self-Assessment Essay](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
+## [Self-Assessment Essay Fall & Spring](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
+* [Self-Assessment Essay Fall & Spring](Team%20Contract%20and%20Capstone%20Assessment/Capstone%20Assessment.md)
 
 ## [Professional Biography](Professional%20Biography.md)
 * [Professional Biography](Professional%20Biography.md)
+
+## [Test Plan and Results](Test%20Plan%20and%20Results.md)
+* [Test Plan and Results](Test%20Plan%20and%20Results.md)
+
+## [User Manual](Test%20Plan%20and%20Results.md)
+* [User Manual](Test%20Plan%20and%20Results.md)
+
+## [Spring Final PPT Presentation](Senior%20Design%20Presentation%20Spring.pptx)
+* [Spring Final PPT Presentation](Senior%20Design%20Presentation%20Spring.pptx)
+
+
+## [Final Expo Poster](CS50%20Poster%20Final%20GH.pdf)
+* [Final Expo Poster](CS50%20Poster%20Final%20GH.pdf)
 
 ## [Budget](Budget.md)
 * [Budget](Budget.md)
 
 ## [Appendix](Appendix.md)
 * [Appendix](Appendix.md)
-
